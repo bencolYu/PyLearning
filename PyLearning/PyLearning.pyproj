@@ -30,6 +30,7 @@
     <Folder Include="console test\" />
     <Folder Include="console test\__pycache__\" />
     <Folder Include="Icon test\" />
+    <Folder Include="sqlite_test\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="console test\closure.py" />
@@ -48,6 +49,7 @@
   <ItemGroup>
     <Content Include="console test\__pycache__\Tkinter.cpython-35.pyc" />
     <Content Include="Icon test\Window1.xaml" />
+    <Content Include="sqlite_test\test" />
   </ItemGroup>
   <Import Condition="Exists($(PtvsTargetsFile))" Project="$(PtvsTargetsFile)" />
   <Import Condition="!Exists($(PtvsTargetsFile))" Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
