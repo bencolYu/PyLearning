@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PyLearning", "PyLearning\PyLearning.pyproj", "{98CC8F39-620D-476D-8DE6-22B89CD64062}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "UnitTest", "UnitTest\UnitTest.pyproj", "{010B10C7-1874-41B2-951B-667D4661829E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{98CC8F39-620D-476D-8DE6-22B89CD64062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{98CC8F39-620D-476D-8DE6-22B89CD64062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{010B10C7-1874-41B2-951B-667D4661829E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{010B10C7-1874-41B2-951B-667D4661829E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
